@@ -93,9 +93,9 @@ REST API for managing barber shop appointments — built with security and scala
 
 | Platform | Link |
 |---|---|
-| **Email** | your_email@gmail.com |
-| **Telegram** | @your_username |
-| **LinkedIn** | linkedin.com/in/your-profile |
+| **Email** | nzulharnai@gmail.com |
+| **Telegram** | @nzulharnai |
+| **LinkedIn** | linkedin.com/in/nzulharnai |
 
 ---
 
